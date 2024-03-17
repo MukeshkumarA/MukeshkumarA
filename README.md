@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Mukesh kumar</h1>
 <h3>A passionate developer from India, Tamil Nadu.</h3>
 
-- 🔭 I’m currently working as a **Product Engineer.**
+🔭 I’m currently working as a **Product Engineer**
 
-- 🌱 I’m currently learning **NodeJS and ExpressJs.**
+🌱 I’m currently learning **NodeJS and ExpressJs**
 
-- 📫 How to reach me **mukeshkumar.mk1911@gmail.com**
+📫 How to reach me **mukeshkumar.mk1911@gmail.com**
 
 
 
