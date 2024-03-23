@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mukesh kumar</h1>
-<h3>A passionate developer from India, Tamil Nadu.</h3>
+<h3>A passionate developer from Tamil Nadu, India.</h3>
 
 🔭 I’m currently working as a **Product Engineer.**
 
